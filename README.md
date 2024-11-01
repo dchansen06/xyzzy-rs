@@ -1,3 +1,4 @@
+[![Build](https://github.com/dchansen06/xyzzy-rs/actions/workflows/build.yml/badge.svg)](https://github.com/dchansen06/xyzzy-rs/actions/workflows/build.yml)
 # xyzzy-rs
 Does everything you could ever want in a program... and more!
 
