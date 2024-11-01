@@ -13,7 +13,7 @@ keywords = ["xyzzy", "no-op"]
 
 [[bin]]
 name = "xyzzy"
-path = "src/xyzzy.rs"
+path = "xyzzy.rs"
 
 [lints.rust]
 unsafe_code = "forbid"
