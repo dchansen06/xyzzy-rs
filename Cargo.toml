@@ -11,9 +11,5 @@ publish = false
 categories = ["command-line-utilities"]
 keywords = ["xyzzy", "no-op"]
 
-[[bin]]
-name = "xyzzy"
-path = "xyzzy.rs"
-
 [lints.rust]
 unsafe_code = "forbid"
