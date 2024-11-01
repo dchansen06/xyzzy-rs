@@ -1,0 +1,15 @@
+[package]
+name = "xyzzy-rs"
+version = "0.9.0"
+edition = "2021"
+authors = ["dchansen06"]
+description = "A program that sets out to do everything it can do"
+readme = "README.md"
+repository = "https://github.com/dchansen06/xyzzy-rs/"
+license = "Apache-2.0"
+publish = false
+categories = ["command-line-utilities"]
+keywords = ["xyzzy", "no-op"]
+
+[lints.rust]
+unsafe_code = "forbid"
